@@ -1,0 +1,23 @@
+baseURL: https://albertchen.dev/
+languageCode: en-us
+title: AC
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+
+  homeInfoParams:
+    Title: "Hi, I'm Albert!"
+    Content: This is a place where I might put things.
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/albert-chen/"
+    - name: github
+      url: "https://github.com/albert-hen"
+    
