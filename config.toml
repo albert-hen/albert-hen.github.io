@@ -1,0 +1,4 @@
+baseURL = 'http://albertchen.dev/'
+languageCode = 'en-us'
+title = 'Albert Chen'
+theme = 'PaperMod'
